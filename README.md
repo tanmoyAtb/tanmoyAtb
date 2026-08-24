@@ -1,7 +1,7 @@
 ## Tanmoy Basak Anjan
 
 Engineering lead for AI and web technology based products.
-Coding since 2013, professionally since 2016 — and yes, I type the semicolons.
+Coding since 2013, professionally since 2016 — and still writing it daily, not just reviewing it.
 
 My work sits between models and production: system architecture for AI and software that has to
 scale, and product design for the people on the other end of it. Across language and vision, I am
