@@ -1,6 +1,6 @@
 ## Tanmoy Basak Anjan
 
-Engineering lead for AI and web technology based products, based in Dhaka, Bangladesh.
+Engineering lead for AI and web technology based products.
 Coding since 2013, professionally since 2016 — and yes, I type the semicolons.
 
 My work sits between models and production: system architecture for AI and software that has to
@@ -15,13 +15,13 @@ have helped build have reached 400,000+ users across three continents.
 
 **AI and machine learning**
 
-- *Language* — LLM and RAG architectures, agents and tool use, conversational AI and dialogue
+- _Language_ — LLM and RAG architectures, agents and tool use, conversational AI and dialogue
   design. Intent classification and the migration path from classifier-based NLU to LLM-driven
   understanding. Multilingual and code-switched systems, including Bangla and Roman Bangla, where
   there is no standard orthography to lean on. LangChain, RASA.
-- *Vision* — OpenCV, YOLO, skeletal mapping and pose estimation with MMPose and OpenPose, and
+- _Vision_ — OpenCV, YOLO, skeletal mapping and pose estimation with MMPose and OpenPose, and
   real-time inference on embedded hardware.
-- *Around the model* — retrieval and evaluation pipelines, measuring performance on live traffic,
+- _Around the model_ — retrieval and evaluation pipelines, measuring performance on live traffic,
   and serving models under production load.
 
 **Web** — Node.js in depth: Express, NestJS, microservices, event-driven architecture, WebSockets
@@ -33,9 +33,9 @@ architecture and frontend security models.
 
 ---
 
-### Headless Technologies
+### Headless Technologies Limited
 
-Co-founder and engineering lead of an engineering studio in Dhaka. Our own products:
+Co-founder and engineering lead of an engineering studio. Our own products:
 
 - **[engaze.ai](https://engaze.ai)** — restaurant management platform used by 2,000+ restaurants,
   with AI conversational ordering on top of it.
@@ -44,18 +44,25 @@ Co-founder and engineering lead of an engineering studio in Dhaka. Our own produ
 
 Most of what I build there is closed-source.
 
+### ChainSafe Systems
+
+Six years as a software engineer, part-time and remote. I worked on the frontend architecture and
+security model for ChainSafe Files, a decentralised storage product on IPFS, Ethereum and
+Filecoin, and contributed to Lootboxes, an NFT distribution system for game developers on EVM
+chains. That work is open source and linked below.
+
 ---
 
 ### Open source
 
-| | |
-|---|---|
-| [country-currency-utils](https://github.com/HeadlessTech/country-currency-utils) | Countries, currencies and monetary formatting · [npm](https://www.npmjs.com/package/country-currency-utils) |
-| [sse-manager](https://github.com/HeadlessTech/sse-manager) | Server-Sent Events with namespaces, rooms and a Redis adapter for horizontal scaling · [npm](https://www.npmjs.com/package/sse-manager) |
-| [tutsmaker](https://github.com/tanmoyAtb/tutsmaker) | Browser agent that explores a web app and writes illustrated tutorials — Playwright, dual LLM backends |
-| [agent-conv](https://github.com/HeadlessTech/agent-conv) | Voice assistant on OpenAI's Realtime API, with natural interruption handling |
-| [ChainSafe/ui-monorepo](https://github.com/ChainSafe/ui-monorepo) | ChainSafe Files — decentralised storage on IPFS, Ethereum and Filecoin. Frontend architecture and security model |
-| [ChainSafe/nodewatch-ui](https://github.com/ChainSafe/nodewatch-ui) | Frontend for NodeWatch, a devp2p crawler mapping Ethereum consensus-layer nodes |
+|                                                                                  |                                                                                                                                         |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [country-currency-utils](https://github.com/HeadlessTech/country-currency-utils) | Countries, currencies and monetary formatting · [npm](https://www.npmjs.com/package/country-currency-utils)                             |
+| [sse-manager](https://github.com/HeadlessTech/sse-manager)                       | Server-Sent Events with namespaces, rooms and a Redis adapter for horizontal scaling · [npm](https://www.npmjs.com/package/sse-manager) |
+| [tutsmaker](https://github.com/tanmoyAtb/tutsmaker)                              | Browser agent that explores a web app and writes illustrated tutorials — Playwright, dual LLM backends                                  |
+| [agent-conv](https://github.com/HeadlessTech/agent-conv)                         | Voice assistant on OpenAI's Realtime API, with natural interruption handling                                                            |
+| [ChainSafe/ui-monorepo](https://github.com/ChainSafe/ui-monorepo)                | ChainSafe Files — decentralised storage on IPFS, Ethereum and Filecoin. Contributed to the frontend architecture and security model     |
+| [ChainSafe/nodewatch-ui](https://github.com/ChainSafe/nodewatch-ui)              | Frontend for NodeWatch, a devp2p crawler mapping Ethereum consensus-layer nodes                                                         |
 
 ---
 
@@ -71,7 +78,7 @@ Most of what I build there is closed-source.
 
 - **World Summit Awards 2025** — Winner, Business & Commerce, for engaze.ai. Selected by the WSA
   Grand Jury from among 180+ participating UN member states.
-- **NASA Space Apps Challenge 2016** — Regional Champion (Dhaka) and Global Nominee for
+- **NASA Space Apps Challenge 2016** — Regional Champion and Global Nominee for
   [Winger](https://github.com/tanmoyAtb/winger), an inertial-sensing device that backtracks your
   path when external communication is unavailable.
 
